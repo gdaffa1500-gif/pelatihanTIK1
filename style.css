@@ -1,5 +1,5 @@
 body {
-  background.color: #3cb371; 
+  background.color: #FFFFE0; 
   font-family: "Lucida Console", "Courier New", monospace;
   color: #6a5acd; 
 }
@@ -8,9 +8,10 @@ body {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color:blue;
+  background-color:white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+  text-align: center;
 }
 |
 
